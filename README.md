@@ -12,6 +12,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/PanchaxariS/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/PanchaxariS/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/PanchaxariS/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/PanchaxariS/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -49,5 +50,6 @@
 ## String
 |  |
 | ------- |
+| [1899-count-items-matching-a-rule](https://github.com/PanchaxariS/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PanchaxariS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
