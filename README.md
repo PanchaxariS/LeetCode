@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/PanchaxariS/LeetCode/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/PanchaxariS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/PanchaxariS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
