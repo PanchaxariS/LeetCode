@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/PanchaxariS/LeetCode/tree/master/0001-two-sum) |
 | [0861-flipping-an-image](https://github.com/PanchaxariS/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PanchaxariS/LeetCode/tree/master/0898-transpose-matrix) |
+| [1031-add-to-array-form-of-integer](https://github.com/PanchaxariS/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PanchaxariS/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/PanchaxariS/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -48,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [1031-add-to-array-form-of-integer](https://github.com/PanchaxariS/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PanchaxariS/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
