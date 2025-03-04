@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PanchaxariS/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/PanchaxariS/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PanchaxariS/LeetCode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/PanchaxariS/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PanchaxariS/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PanchaxariS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -53,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/PanchaxariS/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PanchaxariS/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -65,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -78,5 +82,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/PanchaxariS/LeetCode/tree/master/0861-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
