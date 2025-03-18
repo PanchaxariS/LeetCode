@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PanchaxariS/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/PanchaxariS/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/PanchaxariS/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/PanchaxariS/LeetCode/tree/master/0898-transpose-matrix) |
@@ -87,5 +88,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PanchaxariS/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
