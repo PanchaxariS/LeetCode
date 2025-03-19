@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PanchaxariS/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PanchaxariS/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PanchaxariS/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PanchaxariS/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/PanchaxariS/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PanchaxariS/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -75,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PanchaxariS/LeetCode/tree/master/0013-roman-to-integer) |
 | [1899-count-items-matching-a-rule](https://github.com/PanchaxariS/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PanchaxariS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
