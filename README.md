@@ -78,12 +78,14 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PanchaxariS/LeetCode/tree/master/0013-roman-to-integer) |
+| [1894-merge-strings-alternately](https://github.com/PanchaxariS/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/PanchaxariS/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PanchaxariS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/PanchaxariS/LeetCode/tree/master/0861-flipping-an-image) |
+| [1894-merge-strings-alternately](https://github.com/PanchaxariS/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
