@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PanchaxariS/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PanchaxariS/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/PanchaxariS/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -75,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/PanchaxariS/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -82,6 +84,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/PanchaxariS/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/PanchaxariS/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/PanchaxariS/LeetCode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/PanchaxariS/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/PanchaxariS/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PanchaxariS/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
