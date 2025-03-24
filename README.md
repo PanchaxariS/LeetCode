@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/PanchaxariS/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PanchaxariS/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PanchaxariS/LeetCode/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PanchaxariS/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PanchaxariS/LeetCode/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PanchaxariS/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PanchaxariS/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PanchaxariS/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/PanchaxariS/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
@@ -76,12 +78,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/PanchaxariS/LeetCode/tree/master/1983-maximum-population-year) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PanchaxariS/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PanchaxariS/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -118,4 +122,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/PanchaxariS/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PanchaxariS/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
