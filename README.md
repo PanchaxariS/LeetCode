@@ -72,6 +72,7 @@
 | [0189-rotate-array](https://github.com/PanchaxariS/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PanchaxariS/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/PanchaxariS/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1031-add-to-array-form-of-integer](https://github.com/PanchaxariS/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PanchaxariS/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/PanchaxariS/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -122,6 +123,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/PanchaxariS/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PanchaxariS/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/PanchaxariS/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
