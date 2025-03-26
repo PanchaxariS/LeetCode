@@ -1,16 +1,14 @@
-/**
- * @param {number[]} nums
- * @param {number} k
- * @return {void} Do not return anything, modify nums in-place instead.
- */
 var rotate = function(nums, k) {
-    let size = nums.length;
+    let temp = new Array(nums.length);
+    k = k % nums.length; // Handle cases where k > nums.length
 
-    if(k>size){
-        k = k% size;
+    // Store rotated values in temp
+    for (let i = 0; i < nums.length; i++) {
+        temp[(i + k) % nums.length] = nums[i];
     }
 
-    const rotated = nums.splice(size-k,size);
-    nums.unshift(...rotated);
-    
+    // Copy temp back to nums
+    for (let i = 0; i < nums.length; i++) {
+        nums[i] = temp[i];
+    }
 };
