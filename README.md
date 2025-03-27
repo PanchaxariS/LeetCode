@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/PanchaxariS/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PanchaxariS/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PanchaxariS/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/PanchaxariS/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PanchaxariS/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PanchaxariS/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
@@ -131,9 +132,11 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PanchaxariS/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PanchaxariS/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PanchaxariS/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
