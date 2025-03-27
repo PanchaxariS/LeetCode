@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/PanchaxariS/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PanchaxariS/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PanchaxariS/LeetCode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/PanchaxariS/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PanchaxariS/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PanchaxariS/LeetCode/tree/master/0189-rotate-array) |
@@ -87,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PanchaxariS/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PanchaxariS/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PanchaxariS/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PanchaxariS/LeetCode/tree/master/0268-missing-number) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PanchaxariS/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PanchaxariS/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/PanchaxariS/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/PanchaxariS/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PanchaxariS/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PanchaxariS/LeetCode/tree/master/0202-happy-number) |
